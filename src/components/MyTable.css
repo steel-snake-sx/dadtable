@@ -1,0 +1,9 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-table th {
+    padding: 10px;
+}
